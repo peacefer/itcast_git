@@ -3,6 +3,7 @@ package pojo;
 public class User {
     public String name;
     public String emile;
+    public int age;
 
     public String getName() {
         return name;
